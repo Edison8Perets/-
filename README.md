@@ -25,7 +25,7 @@ class Data:
 
 data = Data()
 
-bot = telegram.Bot('1940073510:AAHWAr5c7YqQ4q0qtCo0b0hzC8QJZCpUaN4')
+bot = telegram.Bot('1936021351:AAG57bqoR_F3fLLbzB5S064ar-19SSkdjoA')
 
 
 def delete_mes():
